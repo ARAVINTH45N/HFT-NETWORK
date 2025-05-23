@@ -1,4 +1,4 @@
-# Report: High-Frequency Trading (HFT) Networks - The Ultimate Real-Time Transmission Application
+# High-Frequency Trading (HFT) Networks - The Ultimate Real-Time Transmission Application
 ## 1. Introduction: Speed as the Ultimate Edge
 In the world of financial markets, time is quite literally money. High-Frequency Trading (HFT) is a specialized form of algorithmic trading where milliseconds – or even microseconds – can determine success or failure. This pursuit of ultra-low latency makes HFT networks a prime real-time application, albeit not of electrical power, but of the fundamental principles governing high-speed signal transmission, akin to optimizing sophisticated data transmission lines.
 
@@ -13,6 +13,8 @@ Low Attenuation and Dispersion: Utilizing materials and technologies (primarily 
 Physical Routing Optimization: Cables are laid in the straightest possible lines, avoiding unnecessary bends or detours, to shave off every nanosecond of travel time. This is analogous to designing the most direct path for a power line to reduce resistance and length.
 Bandwidth and Throughput: While latency is king, HFT networks also require immense bandwidth to handle the continuous stream of market data (ticks) and the high volume of orders and cancellations.
 ## 3. Key Components of an HFT Network
+![tl image 3](https://github.com/user-attachments/assets/0154b9f0-b6f2-4e33-b3d2-73f0a469e291)
+
 An HFT network is a complex ecosystem of specialized hardware and software:
 
 Co-located Servers: Ultra-powerful servers housed directly within or immediately adjacent to exchange data centers.
@@ -33,6 +35,7 @@ HFT networks are primarily used in and around major global financial hubs where 
 Here's a breakdown of "where" HFT networks are found:
 
 ## 1. Major Financial Centers with Exchange Co-location Facilities:
+![tl image 2](https://github.com/user-attachments/assets/2b8c5ef2-1b23-40ae-98d3-537cc8c3cdff)
 
 HFT firms and their specialized networks are concentrated in cities that host the world's largest and most active financial exchanges. These exchanges typically offer co-location services within their data centers.
 
@@ -62,6 +65,7 @@ A growing financial hub, particularly for FX and derivatives trading in Southeas
 Home to the National Stock Exchange of India (NSE) and Bombay Stock Exchange (BSE), which are seeing increasing adoption of high-speed trading. The GIFT City (Gujarat International Finance Tec-City) is also developing as an international financial services center with its own exchanges (like India International Exchange and NSE IFSC), which aim to attract HFT.
 
 ### 2. Within Co-location Data Centers:
+![tl 2](https://github.com/user-attachments/assets/520650e1-b1e7-4739-9612-489b2bd65ef7)
 
 The "where" is very specific: within the physical data centers operated by or directly connected to the financial exchanges themselves.
 
@@ -69,6 +73,7 @@ Server Racks: HFT firms lease space within these data centers, placing their ser
 Direct Fiber Optic Connections (Cross-Connects): The critical "transmission lines" are often direct fiber optic cables (called "cross-connects") that run directly from the HFT firm's server to the exchange's equipment within the same building. This minimizes the physical distance data has to travel, achieving microsecond-level latency.
 
 ### 3. Between Major Financial Centers:
+![tl](https://github.com/user-attachments/assets/b522a8ea-ab2f-4121-821b-c7cac366e1a5)
 
 While co-location is key, HFT also involves transmitting data between different financial centers. For instance, an HFT firm might trade a stock on NYSE and simultaneously hedge it with a derivative on the CME in Chicago. This requires:
 
@@ -83,6 +88,7 @@ Market Makers: Many HFT firms also act as market makers, providing liquidity to 
 Investment Banks & Brokerages: Large investment banks often have their own proprietary trading desks that engage in HFT, or they provide "direct market access" services to other HFT clients, leveraging their low-latency infrastructure.
 Hedge Funds: Some quantitative hedge funds employ HFT strategies, though many focus on slightly longer-term algorithmic trading.
 ## 4.1. Within Co-location Data Centers (The "Last Meter" Race):
+![tl image 4](https://github.com/user-attachments/assets/2b5b4fb0-01f7-41f0-81ba-ea92599a37af)
 
 This is the most critical battleground for latency. Major stock, futures, and options exchanges around the world offer co-location services.
 
