@@ -50,9 +50,11 @@ Europe:
 
 ### London, UK: 
 Home to the London Stock Exchange (LSE) and a major hub for foreign exchange (FX) trading.
-Frankfurt, Germany: Host to Deutsche Börse (including the Xetra trading system and Eurex futures exchange).
+### Frankfurt, Germany:
+Host to Deutsche Börse (including the Xetra trading system and Eurex futures exchange).
 Amsterdam, Netherlands: An increasingly important financial center, especially post-Brexit, with significant trading activity.
-Paris, France: Part of Euronext, another key European exchange group.
+### Paris, France:
+Part of Euronext, another key European exchange group.
 Asia-Pacific:
 
 ### Tokyo, Japan:
@@ -99,5 +101,3 @@ Infrastructure: Their trading servers are connected to the exchange's matching e
 High-Frequency Trading (HFT) networks stand as a compelling testament to the critical real-time application of fundamental transmission line principles. While not moving electrical power for consumption, these sophisticated infrastructures are designed to transmit financial data – market quotes, orders, and confirmations – with unparalleled speed and precision across vast distances and within the tight confines of data centers.
 
 The relentless pursuit of reducing latency, minimizing signal degradation, and optimizing physical pathways in HFT is a direct echo of the engineering challenges faced in traditional power transmission. From the strategic co-location of servers just meters from exchange matching engines, connected by meticulously laid fiber optic cross-connects, to the innovative use of microwave and laser links spanning continents, every element of an HFT network is engineered to operate at the very edge of physical possibility.
-
-In essence, HFT networks exemplify a niche yet profoundly impactful real-time application where the efficiency and integrity of "transmission" dictate financial success and competitive advantage. They underscore how core engineering principles, applied rigorously, can redefine industries and push the boundaries of what's achievable in the instantaneous flow of information.
