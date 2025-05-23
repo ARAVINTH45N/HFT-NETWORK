@@ -4,14 +4,18 @@
 ## 1. Introduction: Speed as the Ultimate Edge
 In the world of financial markets, time is quite literally money. High-Frequency Trading (HFT) is a specialized form of algorithmic trading where milliseconds – or even microseconds – can determine success or failure. This pursuit of ultra-low latency makes HFT networks a prime real-time application, albeit not of electrical power, but of the fundamental principles governing high-speed signal transmission, akin to optimizing sophisticated data transmission lines.
 
-HFT firms leverage powerful computer programs to execute a massive volume of orders across various markets within fractions of a second. Their strategies capitalize on minute price discrepancies and market microstructure, making the speed of information flow and order execution paramount.
+HFT firms leverage powerful computer programs to execute a massive volume of orders across various markets within fractions of a second.
+Their strategies capitalize on minute price discrepancies and market microstructure, making the speed of information flow and order execution paramount.
 
 ## 2. Transmission Line Principles in HFT Networks
 While not carrying megawatts of power, HFT networks are engineered with extreme precision, embodying several core transmission line principles:
 
 Minimizing Propagation Delay: The most critical aspect. Just as power engineers aim to minimize voltage drop and losses over long transmission lines, HFT network designers aim to minimize the physical distance and, consequently, the time it takes for a signal (market data or an order) to travel. This is why "co-location" is so vital.
+
 Impedance Matching: Ensuring that all components in the network (cables, connectors, switches, network interface cards) have matching impedance to prevent signal reflections and maximize signal integrity and speed. Reflections can cause data corruption or delays, both catastrophic in HFT.
+
 Low Attenuation and Dispersion: Utilizing materials and technologies (primarily high-grade fiber optics, and increasingly, microwave/laser links) that minimize signal loss (attenuation) and signal spreading/distortion (dispersion) over distance.
+
 Physical Routing Optimization: Cables are laid in the straightest possible lines, avoiding unnecessary bends or detours, to shave off every nanosecond of travel time. This is analogous to designing the most direct path for a power line to reduce resistance and length.
 Bandwidth and Throughput: While latency is king, HFT networks also require immense bandwidth to handle the continuous stream of market data (ticks) and the high volume of orders and cancellations.
 ## 3. Key Components of an HFT Network
